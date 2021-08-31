@@ -29,7 +29,7 @@ public class StatePlaying extends GameState {
 
   public StatePlaying(JavaPlugin javaPlugin,
       GameArena gameArena) {
-    super(javaPlugin, gameArena, Duration.of(30, ChronoUnit.SECONDS), "Playing");
+    super(javaPlugin, gameArena, Duration.of(5, ChronoUnit.MINUTES), "Playing");
   }
 
   @Override

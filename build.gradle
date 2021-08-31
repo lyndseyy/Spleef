@@ -16,7 +16,7 @@ repositories {
 
 dependencies {
     compileOnly 'io.papermc.paper:paper-api:1.17.1-R0.1-SNAPSHOT'
-    implementation 'com.github.lyndseyy:GameManager:85a4875c2c'
+    implementation 'com.github.lyndseyy:GameManager:main-SNAPSHOT'
 }
 
 def targetJavaVersion = 16

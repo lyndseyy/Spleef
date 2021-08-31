@@ -1,0 +1,7 @@
+name: Spleef
+version: '${version}'
+main: cc.lynzie.spleef.Spleef
+api-version: 1.17
+prefix: SpleefGM
+authors: [ Lyndsey ]
+description: An example project to show how to use GameManager in your own plugin, this is an example of Spleef.
